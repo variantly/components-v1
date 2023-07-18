@@ -1,5 +1,5 @@
 {
-  "name": "lib",
+  "name": "@variantly/components-v1",
   "version": "0.0.1",
   "description": "Variantly component library",
   "scripts": {
